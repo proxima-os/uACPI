@@ -283,6 +283,13 @@ If you want to contribute:
 
 **All contributions are very welcome!**
 
+## Notable projects using uACPI & performance leaderboards
+
+|  Project | Description | (qemu w/ Q35 + KVM) ops/s  |
+|---  |--- |--- |
+| [Managarm](https://github.com/managarm/managarm)  | Pragmatic microkernel-based OS with fully asynchronous I/O | 3.200.618 |
+| [pmOS](https://gitlab.com/mishakov/pmos) | Microkernel-based operating system written from scratch with uACPI running in userspace | 686.252 |
+
 ## License
 
 <a href="https://opensource.org/licenses/MIT">
@@ -291,3 +298,5 @@ If you want to contribute:
 
 uACPI is licensed under the **MIT License**.  
 The full license text is provided in the [LICENSE](LICENSE) file inside the root directory.
+
+
